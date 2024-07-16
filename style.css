@@ -1,0 +1,52 @@
+.sai{
+    font-family: "Playwrite HR", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+
+}
+
+.lead{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
+    color: #C8ACD6;
+}
+
+.home-page{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    background-color: #2E236C;
+}
+
+.pf{
+    border-radius: 50%;
+}
+
+.para{
+    color: #2E236C;
+}
+
+.pht{
+    border-radius: 10px;
+}
+
+.passion{
+    color: #17153B;
+    font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.gmail{
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #C8ACD6;
+    
+}
